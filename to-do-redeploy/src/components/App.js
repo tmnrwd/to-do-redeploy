@@ -12,7 +12,7 @@ class App extends React.Component {
       <div>
         <Navbar bg="dark" variant="dark">
           <Navbar.Brand>
-            Redux Todo
+            To Do: A List
           </Navbar.Brand>
         </Navbar>
         <Container>
